@@ -54,5 +54,20 @@ namespace Task1_maia
         {
              return "And a 1 2 3 4 - dance!🐦";
         }
+
+        public string TakeOff()
+        {
+            return "Bird is taking off";
+        }
+
+        public string Land()
+        {
+            return "Bird is landing";
+        }
+
+        public string Soaring()
+        {
+            return "Bird is soaring";
+        }
     }
 }

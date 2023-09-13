@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task1_maia
 {
-    internal class Reptile: Animal
+    internal class Reptile: Animal, IReptile
     {
         protected double tailLength;//אורך הזנב
 
@@ -14,6 +14,27 @@ namespace Task1_maia
             :base(name, age, isPredator, calorieAmount) //פעולה בונה
         {
             this.tailLength = tailLength;
+        }
+
+        public bool CheckBodyHeat()
+        {
+            Console.WriteLine("Enter Reptiles body temperature: ");
+            int check = int.Parse(Console.ReadLine());
+            if (check < 30 || check > 38)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public string Crawl()
+        {
+            return "Reptile is crawling.";
+        }
+
+        public string Defense()
+        {
+            return "Reptile is in defense mode";
         }
 
         public double GetTailLength()

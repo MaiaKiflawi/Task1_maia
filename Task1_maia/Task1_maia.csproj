@@ -49,6 +49,7 @@
     <Compile Include="Crocodile.cs" />
     <Compile Include="Hippo.cs" />
     <Compile Include="IBird.cs" />
+    <Compile Include="IReptile.cs" />
     <Compile Include="Mammal.cs" />
     <Compile Include="Park.cs" />
     <Compile Include="Pigeon.cs" />
