@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task1_maia
 {
-    internal class Bird: Animal
+    internal class Bird: Animal, IBird
     {
         protected int flightAlt; //גובה תעופה
         protected int wingspanLen; //אורך מוטת הכנף

@@ -11,6 +11,5 @@ namespace Task1_maia
         string TakeOff();
         string Land();
         string Soaring();
-
     }
 }

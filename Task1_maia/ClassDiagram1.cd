@@ -3,14 +3,14 @@
   <Class Name="Task1_maia.Animal" Collapsed="true">
     <Position X="5.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAgAMBAQAAEAAABAAAAAAAEAAAAAAAQRAABBAA=</HashCode>
+      <HashCode>AAAAAAAgEMBAQAAEAAABAAAAAAAEAAAAAAAQRAABBAA=</HashCode>
       <FileName>Animal.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Task1_maia.Mammal" Collapsed="true">
     <Position X="9.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAEAAAAAAAAAAQEIAAAAAAAAAAAAAAAAAAAIEAAAAI=</HashCode>
+      <HashCode>AAAEAAAAEAAAAAQEIAAAAAAAAAAAAAAAAAAAIEAAAAI=</HashCode>
       <FileName>Mammal.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -24,14 +24,15 @@
   <Class Name="Task1_maia.Bird" Collapsed="true">
     <Position X="5.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAQAAAAAAAEUAAAQQAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <HashCode>AAAAAAAQAAAAIAAEUAAAQQAAAAIAAAAAAAAAAAAEAAA=</HashCode>
       <FileName>Bird.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Task1_maia.Cow" Collapsed="true">
     <Position X="8.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AABAAAAAAAAAAAAEAAAAAAAAQAAABAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AABAAAAAEAAAAAAEAAAAAAAAQAAABAAAAAAAAAAAAAA=</HashCode>
       <FileName>Cow.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -52,7 +53,7 @@
   <Class Name="Task1_maia.Snake" Collapsed="true">
     <Position X="1" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAEA=</HashCode>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAQAIAAAAAAAAAAAAAAEA=</HashCode>
       <FileName>Snake.cs</FileName>
     </TypeIdentifier>
   </Class>
